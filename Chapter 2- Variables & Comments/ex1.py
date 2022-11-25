@@ -1,4 +1,4 @@
 message=("9")
-print("you typed",message)
+print(message)
 message=5
 print(message)
